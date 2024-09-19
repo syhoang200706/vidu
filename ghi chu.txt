@@ -1,0 +1,95 @@
+Window -> ấn 1 phím bất kì -> Tìm kiếm
+Window + E: Khung mở ổ đĩa
+F2: Đổi tên
+Window + R -> Gõ dxdiag -> nhấn enter (Mở ra khung kiểm tra cấu hình máy tính)
+Window + R -> Gõ cmd -> nhấn enter (Mở ra chương trình gõ lệnh)
+Giữ phím shift với file bắt đầu và file cuối để để chọn vùng chọn
+Muốn chọn các tệp, thư mục lẻ tẻ thì chọn và giữ phím ctrl
+Ctrl + A: Chọn toàn bộ
+Ctrl + O: Thường là mở 1 file nào đó từ phần mềm
+Ctrl + S: Thường là lưu 1 file nào từ phần mềm
+Ctrl + F4: Đóng file, cửa sổ
+Ctrl + X: Cut
+Ctrl + C: Copy
+Ctrl + V: Dán nội dung sau khi đã Cut hoặc Copy
+Ctrl + P: Tìm kiếm nhanh file
+Ctrl + D: Tìm kiếm nhanh các từ, các ký tự
+Ctrl + Z: Quay lại thao tác vừa thực hiện
+F2: Đổi tên
+Home: Đưa con trỏ về đầu dòng
+End: Đưa con trỏ về cuối dòng
+Delete: Xóa ký tự từ sau vị trí con trỏ
+Backspace: Xóa ký tự trước vị trí con trỏ
+Ctrl + ->: Di chuyển sang phải theo từ
+________________________________________________
+* Bài 1
++ Hướng dẫn quản lý các thư mục và tệp trong máy tính
++ Cài đặt và sử dụng các chương trình 
+- Chrome: Trình duyệt web
+- Zalo: Để gọi điện và trao đổi file
+- Unikey: Để gõ tiếng Việt chuẩn xác
+- 7zip: Phần mềm nén và giải nén
+- UtralView: Phần mềm điều khiển một máy tính khác từ xa
+- Vscode: Công cụ gõ code
++ Giới thiệu và hướng dẫn cách gõ 10 ngón
+- Trang luyện tập: https://10fastfingers.com/typing-test/vietnamese
+________________________________________________   
+* Bài 2
++ Ngôn ngữ tự nhiên 
+- Tiếng Anh, Tiếng Việt, Tiếng Pháp, giọng nói, cử chỉ, chữ viết, ...
++ Ngôn ngữ bậc thấp, ngôn ngữ lập trình nhúng
+- Viết dùng cho máy giặt, xe ô tô, máy  bay, các máy móc công nghiệp, ....
++ Ngôn ngữ lập trình khai báo (SQL, ...)
++ Ngôn ngữ lập trình thông dịch (Viết luôn chạy luôn)
+Javascript, python, ....
++ Ngôn ngữ lập trình biên dịch (Viết -> biên dịch ra 1 file khác -> Chạy trên file đó)
+Java, C#, C, C++, Pascal, ...
+Thực hành chạy ví dụ đàu tiên với các ngôn ngữ làm minh họa
+________________________________________________   
+* Bài 3
+- Thay đổi công cụ tìm kiếm mặc định là google cho edge browser
+- Tạo gmail: https://mail.google.com/ (Các dịch vụ đi kèm gồm gmail + google driver + youtube + google photo)
+Tất cả dịch vụ này được 15GB miễn phí
+syhoang200706 / Zaq1234%
+- Tạo mediafire: https://app.mediafire.com/
+syhoang200706@gmail.com / 
+- Github: Trang chia sẻ, lưu trữ mã nguồn trực tiếp (https://github.com)
+syhoang200706@gmail.com / Zan1234%
+git config --global user.email "syhoang200706@gmail.com"
+git config --global user.name "Hoàng Văn Sỹ"
+- Học sử dụng một số câu lệnh cmd cơ bảnco
+https://gearvn.com/blogs/thu-thuat-giai-dap/command-prompt
+- Xem qua các kiến thức java cơ bản
+https://vietjack.com/java
+- Đánh máy nhanh + sử dụng phím tắt + hạn chế sử dụng chuột
+________________________________________________   
+- Chuyển ổ đĩa: gõ D: hoặc E: hoặc C:
+- Chuyển thư mục: cd sytem/abc/xyz
+- Chuyển về thư mục trước đó: cd ..
+- Chuyển về thưc mục gốc: cd \
+- Lệnh tạo thưc mục: mkdir ten_thu_muc
+- Để gợi ý nhắc lệnh: Nhấn phím tab trên bàn phím
+- Xóa màn hình: cls
+________________________________________________
+- Cấu trúc chương trình (Chương trình chạy từ trên xuống dưới nếu ko gặp lỗi, từ trong ra ngoài)
+- Biến và kiểu dữ liệu
+- Cấu trúc khối lệnh (block code)
+- Cấu trúc rẽ nhánh (if-else, switch case)
+- Cấu trúc lặp  (for, while), nhảy khỏi vòng lặp (break)
+- Hàm (fuction)
+________________________________________________
+Chỉ chấm bài khi
+- Tên class phải được bắt đầu bằng chữ Hoa
+- Mọi khối lệnh if, for, while bắt buộc phải nằm trong cặp ngoặc {}
+- Code phải được format sạch đẹp (Phím tắt format code là Ctrl + K +F )
+________________________________________________
+- Học lại sử dụng phím tắt, đánh văn bản
+- Học các kiểu dữ liệu
+- Học lại các các cấu trúc điều khiển, lặp
+- Học lại cách sử dụng hàm
+________________________________________________
+git status: Kiểm tra trạng thái của repo
+git add .: Thêm vào tất cả các file 
+git commit -m "DAY LA NOI DUNG CAN COMMIT"
+git push: Đẩy LêN Mậng LưU TRữ
+git clone https://github.com/syhoang200706/vidu.git: Kéo xuống 1 repo trên mạng
